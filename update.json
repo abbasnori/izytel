@@ -1,3 +1,7 @@
-const CURRENT_VERSION_CODE = 2; // Incremented from 1
-const CURRENT_VERSION_NAME = '2.0.0';
-
+{
+  "versionCode": 3,
+  "versionName": "2.1.0",
+  "isForce": true,
+  "apkUrl": "https://izytel.com/izytel-v2.1.0.apk",
+  "changeLog": "- رفع مشکل پخش ویدیوها\n- بهبود سرعت لود تصاویر کانال‌ها\n- رفع خطاهای کپچای گوگل"
+}
