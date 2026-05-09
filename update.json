@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "2.1.0",
-  "isForce": true,
+  "isForce": false,
   "apkUrl": "https://izytel.com/izytel-v2.1.0.apk",
   "changeLog": "- رفع مشکل پخش ویدیوها\n- بهبود سرعت لود تصاویر کانال‌ها\n- رفع خطاهای کپچای گوگل"
 }
