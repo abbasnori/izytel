@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "2.5.6",
+  "versionCode": 82,
+  "versionName": "2.5.7",
   "isForce": false,
-  "apkUrl": "http://nilkoh.ir/sni/ezy.apk",
+  "apkUrl": "http://de.berimz.ir:3000/ezy.apk",
   "changeLog": "تغییرات این نسخه:\n- باز شدن سایت‌ها و برنامه‌های ایرانی بدون نیاز به خاموش کردن\n- اضافه شدن داشبورد هوشمند درون‌برنامه‌ای\n- بهبود سرعت و پایداری اتصال"
 }
