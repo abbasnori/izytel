@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "2.5.6",
-  "isForce": true,
+  "isForce": false,
   "apkUrl": "http://nilkoh.ir/sni/ezy.apk",
   "changeLog": "بازشدن سایت ها . برنامه های ایرانی بدون خاموش کردن"
 }
