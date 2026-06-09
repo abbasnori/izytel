@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "2.5.9",
-  "isForce": true,
+  "versionCode": 83,
+  "versionName": "2.5.8",
+  "isForce": false,
   "apkUrl": "http://de.berimz.ir:3000/ezy.2.5.8.apk",
   "changeLog": "تغییرات این نسخه:\n- باز شدن سایت‌ها و برنامه‌های ایرانی بدون نیاز به خاموش کردن\n- اضافه شدن داشبورد هوشمند درون‌برنامه‌ای\n- بهبود سرعت و پایداری اتصال"
 }
